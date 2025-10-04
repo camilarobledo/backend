@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MiPrimerApi</name>
+    </assembly>
+    <members>
+        <member name="M:MiPrimerAPI.Controllers.InstrumentsController.GetInstruments">
+            <summary>
+            Devuelve todos los instrumentos de la lista
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MiPrimerAPI.Controllers.InstrumentsController.AddNewInstrument(System.String)">
+            <summary>
+            Agrega un nuevo instrumento a la lista
+            </summary>
+            <param name="instrument"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MiPrimerAPI.Controllers.InstrumentsController.UpdateInstrument(System.Int32,System.String)">
+            <summary>
+            Modifica un instrumento de la lista
+            </summary>
+            <param name="instrumentIndex"></param>
+            <param name="newInstrument"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MiPrimerAPI.Controllers.InstrumentsController.DeleteInstrument(System.Int32)">
+            <summary>
+            Elimina un instrumento de la lista
+            </summary>
+            <param name="instrumentIndex"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
