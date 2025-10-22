@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|c:\\users\\54341\\source\\repos\\curso\\trabajofinal\\empresaapi\\repositories\\empresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|solutionrelative:repositories\\empresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|c:\\users\\54341\\source\\repos\\curso\\trabajofinal\\empresaapi\\repositories\\iempresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|solutionrelative:repositories\\iempresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|c:\\users\\54341\\source\\repos\\curso\\trabajofinal\\empresaapi\\migrations\\20251022011653_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|solutionrelative:migrations\\20251022011653_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|c:\\users\\54341\\source\\repos\\curso\\trabajofinal\\empresaapi\\migrations\\empresadbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|solutionrelative:migrations\\empresadbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|c:\\users\\54341\\source\\repos\\curso\\trabajofinal\\empresaapi\\data\\empresadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|solutionrelative:data\\empresadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|c:\\users\\54341\\source\\repos\\curso\\trabajofinal\\empresaapi\\controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|solutionrelative:controllers\\empleadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|c:\\users\\54341\\source\\repos\\curso\\trabajofinal\\empresaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|c:\\users\\54341\\source\\repos\\curso\\trabajofinal\\empresaapi\\models\\productwithcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|solutionrelative:models\\productwithcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|c:\\users\\54341\\source\\repos\\curso\\trabajofinal\\empresaapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|c:\\users\\54341\\source\\repos\\curso\\trabajofinal\\empresaapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|c:\\users\\54341\\source\\repos\\curso\\trabajofinal\\empresaapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|c:\\users\\54341\\source\\repos\\curso\\trabajofinal\\empresaapi\\empresaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|solutionrelative:empresaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|c:\\users\\54341\\source\\repos\\curso\\trabajofinal\\empresaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{020385AC-F3C7-4E57-A9E7-A2FE0BC827A6}|EmpresaAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20251022011653_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\Migrations\\20251022011653_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251022011653_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\Migrations\\20251022011653_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20251022011653_InitialCreate.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T01:16:54.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmpresaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\Repositories\\IEmpresaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IEmpresaRepository.cs",
+              "ToolTip": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\Repositories\\IEmpresaRepository.cs",
+              "RelativeToolTip": "Repositories\\IEmpresaRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T01:18:18.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpresaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\Repositories\\EmpresaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmpresaRepository.cs",
+              "ToolTip": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\Repositories\\EmpresaRepository.cs",
+              "RelativeToolTip": "Repositories\\EmpresaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T01:18:52.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpresaDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\Migrations\\EmpresaDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\EmpresaDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\Migrations\\EmpresaDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\EmpresaDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T03:03:25.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpresaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\Data\\EmpresaDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\EmpresaDbContext.cs",
+              "ToolTip": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\Data\\EmpresaDbContext.cs",
+              "RelativeToolTip": "Data\\EmpresaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T01:11:21.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T01:14:30.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpleadosController.cs",
+              "DocumentMoniker": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\Controllers\\EmpleadosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpleadosController.cs",
+              "ToolTip": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\Controllers\\EmpleadosController.cs",
+              "RelativeToolTip": "Controllers\\EmpleadosController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwE8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T01:21:10.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductWithCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\Models\\ProductWithCategoryDto.cs",
+              "RelativeDocumentMoniker": "Models\\ProductWithCategoryDto.cs",
+              "ToolTip": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\Models\\ProductWithCategoryDto.cs",
+              "RelativeToolTip": "Models\\ProductWithCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T01:23:38.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T01:10:29.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T01:08:43.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T01:10:02.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmpresaAPI.http",
+              "DocumentMoniker": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\EmpresaAPI.http",
+              "RelativeDocumentMoniker": "EmpresaAPI.http",
+              "ToolTip": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\EmpresaAPI.http",
+              "RelativeToolTip": "EmpresaAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-22T01:15:43.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\54341\\source\\repos\\Curso\\TrabajoFinal\\EmpresaAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-22T01:06:57.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
