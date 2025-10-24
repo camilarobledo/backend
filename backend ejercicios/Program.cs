@@ -1,3 +1,4 @@
+using MiPrimerApi.DY;
 using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -14,6 +15,8 @@ builder.Services.AddSwaggerGen(c =>
     c.IncludeXmlComments(xmlPath);
 });
 
+builder.Services.AddScoped<IEmailService, EmailService>();
+builder.Services.AddScoped<UsuarioService>();
 
 var app = builder.Build();
 
